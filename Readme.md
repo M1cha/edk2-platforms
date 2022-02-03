@@ -317,3 +317,5 @@ EDK II Platforms itself will not use any code/feature from submodules in above
 submodules. So using '--recursive' adds a dependency on being able to reach
 servers we do not actually want any code from, as well as needlessly
 downloading code we will not use.
+
+TEST
